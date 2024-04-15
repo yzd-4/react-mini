@@ -1,0 +1,13 @@
+.loginPage{
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    .loginForm{
+        background-color: #f9f9f9;
+        padding: 1rem;
+        border-radius: 8px;
+        width: 60%;
+    }
+}
