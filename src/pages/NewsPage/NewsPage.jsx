@@ -4,7 +4,7 @@ import './NewsPage.scss'
 const NewsPage = () => {
   return (
     <div>
-    <h1>ddddfdasfasdfljl</h1>
+    <h1>News Page</h1>
     </div>
   )
 }
